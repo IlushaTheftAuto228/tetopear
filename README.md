@@ -7,6 +7,6 @@ Pillow - картинки
 Pygame - муызка
 
 # Используемая музыка:
-LamazeP - おちゃめ機能 (Ochame Kinou)
+LamazeP, Kasane Teto - おちゃめ機能 (Ochame Kinou)
 
 # Написано на Python 3.12.8
